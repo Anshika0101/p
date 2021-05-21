@@ -104,9 +104,8 @@ if(foodS == 0){
   fill("black");
   text("Milk Bottles Remaining  "+foodS,170,440);
   fill("black");
-  text("Hello beautiful Vandana mam",100,40);
-  fill("black");
-  text("Press UP_ARROW",100,100);
+  text("Hello beautiful Vandana mam",120,35);
+  
 }
 
 function readStock(data)
