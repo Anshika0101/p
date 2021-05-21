@@ -103,8 +103,10 @@ if(foodS == 0){
   text("Long Press up arrow key to feed your pet Dog Tommy",50,50);
   fill("black");
   text("Milk Bottles Remaining  "+foodS,170,440);
-  fill("black");6
+  fill("black");
   text("Hello beautiful Vandana mam",100,40);
+  fill("black");
+  text("Press UP_ARROW",100,100);
 }
 
 function readStock(data)
