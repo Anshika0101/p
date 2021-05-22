@@ -102,9 +102,9 @@ if(foodS == 0){
   fill("black");
   text("Long Press up arrow key to feed your pet Dog Tommy",100,50);
   fill("black");
-  text("Milk Bottles Remaining  "+foodS,170,440);
+  text("Milk Bottles Remaining  "+foodS,200,440);
   fill("black");
-  text("Hello beautiful Vandana mam",120,35);
+  text("Hello beautiful Vandana mam",200,35);
   
 }
 
